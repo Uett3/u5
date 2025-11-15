@@ -3,7 +3,7 @@ package h2;
 public class H2_main {
     public static void main(String[] args) {
 
-        int n = 1785;
+        int n = 987654321;
         int digits = 9;
         int[] a = new int[9];
 
